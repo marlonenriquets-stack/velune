@@ -1,43 +1,43 @@
 [
     {
-    "id": "cyberpunk-edgerunners-2022",
-    "tipo": "tv",
-    "titulo": "Cyberpunk: Edgerunners",
-    "portada": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
-    "categorias": [
-        "Acción",
-        "Animación"
-    ],
-    "descripcion": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
-    "año": "2022",
-    "calificacion": 8.5,
-    "temporadas": [
-        {
-            "nombre": "Cyberpunk: Edgerunners 2",
-            "capitulos": [
-                {
-                    "titulo": "Capítulo 1:",
-                    "video": "https://unlimplay.com/play/embed/tv/105248/2/1"
-                },
-                {
-                    "titulo": "Capítulo 2:",
-                    "video": "https://unlimplay.com/play/embed/tv/105248/2/2"
-                },
-                {
-                    "titulo": "Capítulo 3:",
-                    "video": "https://unlimplay.com/play/embed/tv/105248/2/3"
-                },
-                {
-                    "titulo": "Capítulo 4:",
-                    "video": "https://unlimplay.com/play/embed/tv/105248/2/4"
-                },
-                {
-                    "titulo": "Capítulo 5:",
-                    "video": "https://unlimplay.com/play/embed/tv/105248/2/5"
-                }
-            ]
-        }
-    ]
-},
+        "id": "cyberpunk-edgerunners-2022",
+        "tipo": "tv",
+        "titulo": "Cyberpunk: Edgerunners",
+        "portada": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+        "banner": "https://image.tmdb.org/t/p/original/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
+        "categorias": [
+            "Acción",
+            "Animación"
+        ],
+        "descripcion": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario.",
+        "año": "2022",
+        "calificacion": 8.5,
+        "temporadas": [
+            {
+                "nombre": "Cyberpunk: Edgerunners 2",
+                "capitulos": [
+                    {
+                        "titulo": "Capítulo 1:",
+                        "video": "https://unlimplay.com/play/embed/tv/105248/2/1"
+                    },
+                    {
+                        "titulo": "Capítulo 2:",
+                        "video": "https://unlimplay.com/play/embed/tv/105248/2/2"
+                    },
+                    {
+                        "titulo": "Capítulo 3:",
+                        "video": "https://unlimplay.com/play/embed/tv/105248/2/3"
+                    },
+                    {
+                        "titulo": "Capítulo 4:",
+                        "video": "https://unlimplay.com/play/embed/tv/105248/2/4"
+                    },
+                    {
+                        "titulo": "Capítulo 5:",
+                        "video": "https://unlimplay.com/play/embed/tv/105248/2/5"
+                    }
+                ]
+            }
+        ]
+    }
 ]

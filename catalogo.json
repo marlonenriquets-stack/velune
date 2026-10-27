@@ -39,5 +39,20 @@
                 ]
             }
         ]
-    }
+    },
+    {
+    "id": "amigos-imaginarios-2024",
+    "tipo": "movie",
+    "titulo": "Amigos imaginarios",
+    "portada": "https://image.tmdb.org/t/p/w500/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+    "categorias": [
+        "Familiares",
+        "Comedia"
+    ],
+    "descripcion": "Una joven descubre la capacidad de ver a los amigos imaginarios de las personas que han sido abandonados por los niños a los que ayudaron.",
+    "año": "2024",
+    "calificacion": 6.9,
+    "video": "https://1a-1791.com/video/fwe2/18/s8/2/X/f/s/s/Xfssw.caa.mp4"
+}
 ]

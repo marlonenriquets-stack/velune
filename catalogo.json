@@ -100,5 +100,20 @@
     "año": "2007",
     "calificacion": 5.7,
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/s/p/2/h/sp2hq.aaa.mp4"
-}
+},
+    {
+    "id": "spider-man-sin-camino-a-casa-2021",
+    "tipo": "movie",
+    "titulo": "Spider-Man: Sin camino a casa",
+    "portada": "https://image.tmdb.org/t/p/w500/9OGkKMnYgSc0TzSIErcOOiKllrK.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "categorias": [
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Peter Parker es desenmascarado y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange para recuperar su secreto, el hechizo crea un agujero en su mundo, liberando a los villanos más poderosos que han luchado con cualquier Spider-Man, en cualquier universo. Ahora Peter debe de superar su reto más grande, que no solo alterara su propio futuro pero el del multiverso, forzándolo a descubrir lo que realmente significa ser Spider-Man.",
+    "año": "2021",
+    "calificacion": 7.9,
+    "video": "https://1a-1791.com/video/fww1/fc/s8/2/u/V/Q/v/uVQvy.caa.mp4"
+},
 ]

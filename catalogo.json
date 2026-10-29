@@ -86,5 +86,19 @@
     "año": "2026",
     "calificacion": 4,
     "video": "https://hugh.cdn.rumble.cloud/video/fww1/05/s8/2/e/o/7/9/eo79A.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=608691200-608737378"
+},
+    {
+    "id": "norbit-2007",
+    "tipo": "movie",
+    "titulo": "Norbit",
+    "portada": "https://image.tmdb.org/t/p/w500/XcZ5NzygPp54csxCnzvQKuxFL2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nMgQD51KzAqrt4F6iwxw5TetVLW.jpg",
+    "categorias": [
+        "Comedia"
+    ],
+    "descripcion": "El amable Norbit siempre la ha pasado muy mal desde el día en que fue abandonado en una combinación de orfanato y restaurante chino. Recientemente fue obligado a casarse con la insoportable y glotona Rasputia, y él llega a su límite. Entonces, Kate, el amor de su infancia, se muda de regreso a su ciudad y él trata de hallar la forma de regresar con su verdadero amor.",
+    "año": "2007",
+    "calificacion": 5.7,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/s/p/2/h/sp2hq.aaa.mp4"
 }
 ]

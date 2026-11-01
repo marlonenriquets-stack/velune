@@ -216,4 +216,19 @@
         }
     ]
 },
+    {
+    "id": "m3gan-2022",
+    "tipo": "movie",
+    "titulo": "M3GAN",
+    "portada": "https://image.tmdb.org/t/p/w500/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
+    "categorias": [
+        "Terror",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Cuando Gemma se convierte en la cuidadora de su sobrina huérfana de 8 años, Cady, Gemma no está segura ni preparada para ser madre. Bajo una intensa presión en el trabajo, Gemma decide emparejar su prototipo M3GAN con Cady en un intento de resolver ambos problemas, una decisión que tendrá consecuencias inimaginables.",
+    "año": "2022",
+    "calificacion": 7,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/C/g/j/b/Cgjbo.aaa.mp4"
+}
 ]

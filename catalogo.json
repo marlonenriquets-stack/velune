@@ -131,5 +131,89 @@
     "año": "2009",
     "calificacion": 7.9,
     "video": "https://1a-1791.com/video/fwe1/3b/s8/2/1/R/g/m/1Rgmw.caa.mp4"
-}
+},
+    {
+    "id": "demon-slayer-kimetsu-no-yaiba--entrenamiento-con-los-hashira--2024",
+    "tipo": "movie",
+    "titulo": "Demon Slayer: Kimetsu no Yaiba -Entrenamiento con los Hashira-",
+    "portada": "https://image.tmdb.org/t/p/w500/8g56u2k9CvMHP5IG257QVj9gj1b.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/byFQpmElaxa4sPwS0d9qQMTtygw.jpg",
+    "categorias": [
+        "Acción",
+        "Animación"
+    ],
+    "descripcion": "Tanjiro se somete a un riguroso entrenamiento con el Hashira de Piedra, Himejima, en su búsqueda por convertirse en un Hashira. Mientras tanto, Muzan sigue buscando a Nezuko y Ubuyashiki.",
+    "año": "2024",
+    "calificacion": 6.5,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/I/5/b/m/I5bmq.aaa.mp4"
+},
+    {
+    "id": "solo-leveling-2024",
+    "tipo": "tv",
+    "titulo": "Solo Leveling",
+    "portada": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "categorias": [
+        "Acción",
+        "Animación"
+    ],
+    "descripcion": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+    "año": "2024",
+    "calificacion": 8.7,
+    "temporadas": [
+        {
+            "nombre": "Temporada 1",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1:",
+                    "video": "https://1a-1791.com/video/fwe2/1f/s8/2/c/-/9/h/c-9hw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 2:",
+                    "video": "https://1a-1791.com/video/fwe1/35/s8/2/F/c/-/h/Fc-hw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 3:",
+                    "video": "https://1a-1791.com/video/fwe1/b4/s8/2/V/n/-/h/Vn-hw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 4:",
+                    "video": "https://1a-1791.com/video/fwe1/e6/s8/2/a/v/-/h/av-hw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 5:",
+                    "video": "https://1a-1791.com/video/fwe1/ee/s8/2/w/8/a/i/w8aiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 6:",
+                    "video": "https://1a-1791.com/video/fwe1/88/s8/2/a/j/b/i/ajbiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 7:",
+                    "video": "https://1a-1791.com/video/fwe1/f6/s8/2/R/r/b/i/Rrbiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 8:",
+                    "video": "https://1a-1791.com/video/fwe1/79/s8/2/d/B/b/i/dBbiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 9:",
+                    "video": "https://1a-1791.com/video/fwe2/9b/s8/2/2/H/b/i/2Hbiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 10:",
+                    "video": "https://1a-1791.com/video/fwe2/fc/s8/2/W/Q/b/i/WQbiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 11:",
+                    "video": "https://1a-1791.com/video/fwe2/7b/s8/2/-/U/b/i/-Ubiw.caa.mp4"
+                },
+                {
+                    "titulo": "Capítulo 12:",
+                    "video": "https://1a-1791.com/video/fwe1/2b/s8/2/Z/8/b/i/Z8biw.caa.mp4"
+                }
+            ]
+        }
+    ]
+},
 ]

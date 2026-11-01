@@ -115,5 +115,21 @@
     "año": "2021",
     "calificacion": 7.9,
     "video": "https://1a-1791.com/video/fww1/fc/s8/2/u/V/Q/v/uVQvy.caa.mp4"
+},
+    {
+    "id": "coraline-y-la-puerta-secreta-2009",
+    "tipo": "movie",
+    "titulo": "Coraline y la puerta secreta",
+    "portada": "https://image.tmdb.org/t/p/w500/6A0aII76dlLp6gffCyTcTQXajdd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "categorias": [
+        "Familiares",
+        "Terror",
+        "Animación"
+    ],
+    "descripcion": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+    "año": "2009",
+    "calificacion": 7.9,
+    "video": "https://1a-1791.com/video/fwe1/3b/s8/2/1/R/g/m/1Rgmw.caa.mp4"
 }
 ]

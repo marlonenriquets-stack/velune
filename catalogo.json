@@ -245,5 +245,21 @@
     "año": "2018",
     "calificacion": 4.3,
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/p/Q/k/K/pQkKr.aaa.mp4"
+},
+    {
+    "id": "toy-story-5-2026",
+    "tipo": "movie",
+    "titulo": "Toy Story 5",
+    "portada": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "categorias": [
+        "Familiares",
+        "Comedia",
+        "Animación"
+    ],
+    "descripcion": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+    "año": "2026",
+    "calificacion": 8.3,
+    "video": "https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/2/s/j/4/Q/sj4QA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1631320064-1631381874"
 }
 ]

@@ -293,5 +293,76 @@
     "año": "2017",
     "calificacion": 7.2,
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/8/g/5/9/8g59q.aaa.mp4"
+},
+    {
+    "id": "la-mascara-1994",
+    "tipo": "movie",
+    "titulo": "La Máscara",
+    "portada": "https://image.tmdb.org/t/p/w500/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+    "categorias": [
+        "Comedia"
+    ],
+    "descripcion": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
+    "año": "1994",
+    "calificacion": 7,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/6/r/O/l/6rOls.aaa.mp4"
+},
+    {
+    "id": "el-sorprendente-hombre-arana-2012",
+    "tipo": "movie",
+    "titulo": "El sorprendente Hombre Araña",
+    "portada": "https://image.tmdb.org/t/p/w500/9MsCANWyLJmz2MAEqiy9vKMpyc8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+    "categorias": [
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Peter Parker es un estudiante que fue abandonado por sus padres cuando era niño, quedando a cargo de su tío Ben y su tía May. Cuando Peter descubre un misterioso maletín perteneciente a su padre, comienza la búsqueda para entender la desaparición de sus padres, que lo lleva directamente al laboratorio en Oscorp del Dr. Curt Connors , ex compañero de trabajo de su padre.",
+    "año": "2012",
+    "calificacion": 6.8,
+    "video": "https://1a-1791.com/video/fww1/bf/s8/2/c/R/Q/v/cRQvy.caa.mp4"
+},
+    {
+    "id": "el-hombre-arana-2-2004",
+    "tipo": "movie",
+    "titulo": "El hombre araña 2",
+    "portada": "https://image.tmdb.org/t/p/w500/9vAx9vN27TpRv98fREN4aXIdhbp.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+    "categorias": [
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante científico llamado Doctor Otto Octavius.",
+    "año": "2004",
+    "calificacion": 7.3,
+    "video": "https://1a-1791.com/video/fww1/57/s8/2/w/Q/Q/v/wQQvy.caa.mp4"
+},
+    {
+    "id": "el-hombre-arana-2002",
+    "tipo": "movie",
+    "titulo": "El hombre araña",
+    "portada": "https://image.tmdb.org/t/p/w500/8eTbNzpjK9VJGu1g60j268MmXzm.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "categorias": [
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+    "año": "2002",
+    "calificacion": 7.4,
+    "video": "https://1a-1791.com/video/fww1/6b/s8/2/A/N/Q/v/ANQvy.caa.mp4"
+},
+    {
+    "id": "ferrari-2023",
+    "tipo": "movie",
+    "titulo": "Ferrari",
+    "portada": "https://image.tmdb.org/t/p/w500/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/du11oPPbEoDnUpiREO5tUg47rJd.jpg",
+    "categorias": [],
+    "descripcion": "Una película biográfica del magnate automovilístico Enzo Ferrari, cuya familia redefinió la idea del deportivo italiano de alta potencia y prácticamente generó el concepto de las carreras de Fórmula Uno.",
+    "año": "2023",
+    "calificacion": 6.4,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/K/4/l/a/K4lar.aaa.mp4"
 }
 ]

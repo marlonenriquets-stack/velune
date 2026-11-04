@@ -464,12 +464,12 @@
     "calificacion": 7.2,
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/y/E/V/F/yEVFr.aaa.mp4"
 },
-    {
+{
     "id": "elio-2025",
     "tipo": "movie",
     "titulo": "Elio",
     "portada": "https://image.tmdb.org/t/p/w500/3se2wFVp9HITFMIjPOHmnyaMXjx.jpg",
-    "banner": "https://rumble.com/hls-vod/787h6a/playlist.m3u8",
+    "banner": "https://image.tmdb.org/t/p/original/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
     "categorias": [
         "Familiares",
         "Comedia",
@@ -479,6 +479,6 @@
     "descripcion": "Con una imaginación desbordante y una enorme obsesión por los extraterrestres, Elio, de 11 años, es transportado al espacio. Pero es identificado por error como el embajador galáctico de la tierra.",
     "año": "2025",
     "calificacion": 6.9,
-    "video": "https://unlimplay.com/play/embed/movie/1022787"
+    "video": "https://rumble.com/hls-vod/787h6a/playlist.m3u8"
 }
 ]

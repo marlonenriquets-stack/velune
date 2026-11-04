@@ -420,6 +420,20 @@
     "año": "2026",
     "calificacion": 7.3,
     "video": "https://vimeos.net/embed-nlu5yytb9hnx.html"
+},
+    {
+    "id": "resident-evil-noche-cero-2026",
+    "tipo": "movie",
+    "titulo": "Resident Evil: Noche cero",
+    "portada": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "categorias": [
+        "Terror",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+    "año": "2026",
+    "calificacion": 7.4,
+    "video": "https://shannoncoldalready.com/e/xsquv5fifvbu"
 }
-    
 ]

@@ -364,5 +364,62 @@
     "año": "2023",
     "calificacion": 6.4,
     "video": "https://hugh.cdn.rumble.cloud/video/s8/2/K/4/l/a/K4lar.aaa.mp4"
+},
+    {
+    "id": "una-loca-pelicula-de-esparta-2008",
+    "tipo": "movie",
+    "titulo": "Una loca película de Esparta",
+    "portada": "https://image.tmdb.org/t/p/w500/iX4ArGBpWfUEqu12knFb5ptUx9U.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8D3dBwSoPSGWRusbTYS8oR1tAu9.jpg",
+    "categorias": [
+        "Comedia"
+    ],
+    "descripcion": "Parodia de la exitosa película \"300\". El heroico Leónidas, sin más armas que la ropa interior de cuero y una capa, lidera un grupo de 13 espartanos en defensa de su patria contra los invasores persas.",
+    "año": "2008",
+    "calificacion": 4.1,
+    "video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/h/W/u/w/hWuwr.aaa.mp4"
+},
+    {
+    "id": "la-sirenita-3-los-comienzos-de-ariel-2008",
+    "tipo": "movie",
+    "titulo": "La Sirenita 3: Los comienzos de Ariel",
+    "portada": "https://image.tmdb.org/t/p/w500/yVDK33YsJh5sRfKD0CFh2oI7RVL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1UNDNyqTV4CS03T4gMuRYiahtpd.jpg",
+    "categorias": [
+        "Familiares",
+        "Animación"
+    ],
+    "descripcion": "Mucho antes de conocer al príncipe Eric y poner los pies en la tierra, Ariel era una de las siete hijas queridas del poderoso rey Tritón. Pero los tiempos estaban cambiando en el reino submarino, y la música estaba prohibida. En esta aventura, Ariel, sus hermanas y sus amigos los leales Sebastián y Flounder, se esfuerzan por devolver la música y la amistad al reino de Atlántica.",
+    "año": "2008",
+    "calificacion": 6.7,
+    "video": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/z/U/h/v/zUhvr.aaa.mp4"
+},
+    {
+    "id": "diabolica-tentacion-2009",
+    "tipo": "movie",
+    "titulo": "Diabólica tentación",
+    "portada": "https://image.tmdb.org/t/p/w500/jLQCyq19VARKdT9PQ9CwvGRrjGA.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rNvn89IcEJPqRKxIgwTAPXl9qjJ.jpg",
+    "categorias": [
+        "Terror",
+        "Comedia"
+    ],
+    "descripcion": "Una sensual estudiante poseída comienza a asesinar a sus compañeros de clase. Jennifer Check (Megan Fox) es la nueva estrella de las cheerleaders de un instituto de Minnesota, en una zona rural y aparentemente tranquila. Pero Jennifer será poseída por unas fuerzas extrañas y malévolas que la impulsarán a asesinar a todos sus compañeros, principalmente a los chicos que quieren ligar con ella...",
+    "año": "2009",
+    "calificacion": 6,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/n/F/s/q/nFsqr.aaa.mp4"
+},
+    {
+    "id": "boulevard-2026",
+    "tipo": "movie",
+    "titulo": "Boulevard",
+    "portada": "https://image.tmdb.org/t/p/w500/f8yaYBTeyxm4Yrml5P3STTRsLy7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+    "categorias": [],
+    "descripcion": "Narra la historia de Hasley y Luke. Ella es optimista y él es un chico con un pasado oscuro, problemas de adicciones y depresión. Juntos forman una relación única (su \"boulevard\") donde se ayudan mutuamente a sanar y a crecer, enfrentando el dolor y las dificultades.",
+    "año": "2026",
+    "calificacion": 7.3,
+    "video": "https://vimeos.net/embed-nlu5yytb9hnx.html"
 }
+    
 ]

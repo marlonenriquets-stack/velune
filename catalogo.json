@@ -480,5 +480,48 @@
     "año": "2025",
     "calificacion": 6.9,
     "video": "https://rumble.com/hls-vod/787h6a/playlist.m3u8"
+},
+    {
+    "id": "terrifier-2018",
+    "tipo": "movie",
+    "titulo": "Terrifier",
+    "portada": "https://image.tmdb.org/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
+    "año": "2018",
+    "calificacion": 6.3,
+    "video": "https://rumble.com/hls-vod/78k132/playlist.m3u8"
+},
+    {
+    "id": "los-huespedes-2015",
+    "tipo": "movie",
+    "titulo": "Los huéspedes",
+    "portada": "https://image.tmdb.org/t/p/w500/bwZ9zpsWHYlwffMJg2E8N9RLL0M.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o51GktmDgLPLYFXn7iZDQxmNHPF.jpg",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "Una madre deja a sus dos hijos durante una semana en la remota granja de sus abuelos, en Pensilvania. Los niños descubrirán que la anciana pareja está implicada en algo profundamente inquietante. Película de M. Night Shyamalan (‘El sexto sentido’) realizada con muy bajo presupuesto.",
+    "año": "2015",
+    "calificacion": 6.3,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/M/z/f/X/MzfXr.aaa.mp4"
+},
+    {
+    "id": "terrifier-2-el-payaso-siniestro-2022",
+    "tipo": "movie",
+    "titulo": "Terrifier 2: El Payaso Siniestro",
+    "portada": "https://image.tmdb.org/t/p/w500/6ZfvF7ZS8MJXe0YwRkPAtXNpXrG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4QJtcL4D3abqdX6Snrk8ciRkroa.jpg",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "Después de ser resucitado por una entidad siniestra, Art the Clown regresa al condado de Miles, donde debe cazar y destruir a una adolescente y a su hermano menor en la noche de Halloween.",
+    "año": "2022",
+    "calificacion": 6.6,
+    "video": "https://rumble.com/hls-vod/78k13y/playlist.m3u8"
 }
+    
 ]

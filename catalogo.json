@@ -522,6 +522,147 @@
     "año": "2022",
     "calificacion": 6.6,
     "video": "https://rumble.com/hls-vod/78k13y/playlist.m3u8"
+},
+    {
+    "id": "el-juego-del-calamar-2021",
+    "tipo": "tv",
+    "titulo": "El juego del calamar",
+    "portada": "https://image.tmdb.org/t/p/w500/xx3Zurg2mVep7UhXAjeYuetOvsB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5aE1kxWg6RhgQxJTXTxifv4uq7P.jpg",
+    "trailer": "",
+    "categorias": [
+        "Acción"
+    ],
+    "descripcion": "Cientos de jugadores cortos de dinero aceptan una extraña invitación a competir en juegos infantiles. Adentro les espera un premio irresistible... con un riesgo mortal.",
+    "año": "2021",
+    "calificacion": 7.9,
+    "temporadas": [
+        {
+            "nombre": "Temporada 1",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: Luz roja, luz verde",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/D/S/0/q/DS0qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: Infierno",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/U/9/M/QU9Ms.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: El hombre del paraguas",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/w/m/2/q/wm2qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/blRusLHm704JFrL8NjK4CQYwTUL.jpg"
+                },
+                {
+                    "titulo": "Capítulo 4: No abandones el equipo",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/b/l/2/q/bl2qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/2VBE8mSP2bBEstfNlsWgXaKtzGO.jpg"
+                },
+                {
+                    "titulo": "Capítulo 5: Un mundo justo",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/J/v/3/q/Jv3qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg"
+                },
+                {
+                    "titulo": "Capítulo 6: Gganbu",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/g/Q/3/q/gQ3qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/zoHfRtnq0WTx6JYPcHkRrhB5hga.jpg"
+                },
+                {
+                    "titulo": "Capítulo 7: Los VIP",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/Z/K/4/q/ZK4qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/nobU31fAONV7Vuqm0sFORU3evTt.jpg"
+                },
+                {
+                    "titulo": "Capítulo 8: El líder",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/F/J/4/q/FJ4qs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/y2J9b8RXahwGTGssMBv19QiuQCi.jpg"
+                },
+                {
+                    "titulo": "Capítulo 9: Un día de suerte",
+                    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/p/G/w/r/pGwrs.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/sKeQbHeEUQLyoSdopa0QXm604cz.jpg"
+                }
+            ]
+        },
+        {
+            "nombre": "Temporada 2",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: Sustento y azar",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/bd/s8/2/r/d/j/V/rdjVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/tWwP30pufZhWDSxN4qxER7gMbLR.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: Fiesta de Halloween",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/07/s8/2/t/7/i/V/t7iVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/cSWW7huF9CuupMNmQlAlEHczDgk.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: 001",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/ff/s8/2/d/c/j/V/dcjVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/yL7phVQmwbBr0IVrDnqsNiPrpwQ.jpg"
+                },
+                {
+                    "titulo": "Capítulo 4: Seis piernas",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/70/s8/2/h/d/j/V/hdjVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/hU4SUCvTWVhqMyk81t4zmvQg79u.jpg"
+                },
+                {
+                    "titulo": "Capítulo 5: Otra ronda",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/t/m/l/V/tmlVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg"
+                },
+                {
+                    "titulo": "Capítulo 6: O X",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/e7/s8/2/Z/t/k/V/ZtkVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/uDkYBMlKZV9pr17UMjkNAeI044s.jpg"
+                },
+                {
+                    "titulo": "Capítulo 7: Amigos o enemigos",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/14/s8/2/N/h/l/V/NhlVy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg"
+                }
+            ]
+        },
+        {
+            "nombre": "Temporada 3",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: Llaves y cuchillos",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/55/s8/2/V/r/f/X/VrfXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/3sUdP791SMnEQuJNIpRCT49pkxe.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: Noche estrellada",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/24/s8/2/r/Q/f/X/rQfXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/eFlIKUPGoWMLKjvMxpfYQT5Lmcv.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: No es culpa tuya",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/44/s8/2/j/b/g/X/jbgXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/c8W6E3MzN1t09sotXVtLVdzCsSk.jpg"
+                },
+                {
+                    "titulo": "Capítulo 4: 222",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/f4/s8/2/t/T/i/X/tTiXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/vsQ8NmIx6fa7Po92w8hLihfNMm5.jpg"
+                },
+                {
+                    "titulo": "Capítulo 5: ○△□",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/02/s8/2/Z/Z/i/X/ZZiXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/1vR55REzVaAGms1A0r10rVLS2Jj.jpg"
+                },
+                {
+                    "titulo": "Capítulo 6: La naturaleza humana",
+                    "video": "https://hugh.cdn.rumble.cloud/video/fww1/76/s8/2/1/i/j/X/1ijXy.aaa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/yHXKHLQdpUdJRVDTfCuycAPSJ01.jpg"
+                }
+            ]
+        }
+    ]
 }
     
 ]

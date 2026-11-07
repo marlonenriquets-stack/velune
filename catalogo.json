@@ -663,6 +663,23 @@
             ]
         }
     ]
+},
+    {
+    "id": "godzilla-minus-zero-2026",
+    "tipo": "movie",
+    "titulo": "Godzilla Minus Zero",
+    "portada": "https://image.tmdb.org/t/p/w500/8VKjocpP0EiUiUzTPWwz7TV2kWP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TMD8JTe3Q4w",
+    "categorias": [
+        "Terror",
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+    "año": "2026",
+    "calificacion": 8.1,
+    "video": "https://audinifer.com/e/lanvhz24hal6"
 }
     
 ]

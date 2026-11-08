@@ -680,6 +680,70 @@
     "año": "2026",
     "calificacion": 8.1,
     "video": "https://audinifer.com/e/lanvhz24hal6"
-}
+},
+    {
+    "id": "chappie-2015",
+    "tipo": "movie",
+    "titulo": "Chappie",
+    "portada": "https://image.tmdb.org/t/p/w500/g2kVBpRljENCi8KskBi0tedK3UE.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/qX5T5GVAcq2UKaaiAx5SZp1AtlY.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TMD8JTe3Q4w",
+    "categorias": [
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "En un futuro cercano, el crimen es combatido por una fuerza de policías robots. Uno de estos robots, llamado Chappie, es secuestrado por un grupo de delincuentes que le instalan un nuevo programa que lo convertirá en el primer robot capaz de tener pensamientos y sentimientos propios.",
+    "año": "2015",
+    "calificacion": 6.8,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/A/h/d/QAhds.aaa.mp4"
+},
+    {
+    "id": "godzilla-minus-one-2023",
+    "tipo": "movie",
+    "titulo": "Godzilla Minus One",
+    "portada": "https://image.tmdb.org/t/p/w500/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ESKXArWZ0M",
+    "categorias": [
+        "Terror",
+        "Acción",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas... y mucho menos defenderse?",
+    "año": "2023",
+    "calificacion": 7.6,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/g/a/Qfgas.aaa.mp4"
+},
+    {
+    "id": "y-donde-esta-el-fantasma-2013",
+    "tipo": "movie",
+    "titulo": "¿Y dónde está el fantasma?",
+    "portada": "https://image.tmdb.org/t/p/w500/pAVGfrADDvKMgoZnJLSCiLBCCiG.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/mgnMFeLCEaNTOiD7w2DOaqzddyJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ESKXArWZ0M",
+    "categorias": [
+        "Terror",
+        "Comedia"
+    ],
+    "descripcion": "Una joven pareja, Malcolm y Kisha, se acaban de mudar a la casa de sus sueño. Al instalarse, descubren que no están solos en ella. Pero no es la casa la que está embrujada, sino la novia de Malcolm, que parece estar poseída por un demonio. Malcolm contrata a un sacerdote para librarla de este intruso, decidido a no dejar que el espíritu maligno arruine su relación... o, más importante aún, su vida sexual...",
+    "año": "2013",
+    "calificacion": 5.9,
+    "video": "https://rumble.com/hls-vod/78qos2/playlist.m3u8"
+},
+    {
+    "id": "una-historia-de-derry-2026",
+    "tipo": "movie",
+    "titulo": "Una historia de Derry",
+    "portada": "https://image.tmdb.org/t/p/w500/jmhkSZYcSMVw8IWiNROyWaD3Sal.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ESKXArWZ0M",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.",
+    "año": "2026",
+    "calificacion": 7,
+    "video": "https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/s/X/I/b/sXIbB.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=48481280-48498446"
+},
     
 ]

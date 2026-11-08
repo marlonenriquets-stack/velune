@@ -811,7 +811,7 @@
     "año": "2014",
     "calificacion": 6.8,
     "video": "https://rumble.com/hls-vod/78jzwm/playlist.m3u8"
-}
+},
    {
     "id": "la-morgue-2016",
     "tipo": "movie",
@@ -841,5 +841,20 @@
     "año": "2014",
     "calificacion": 5.8,
     "video": "https://vimeos.net/embed-bxfgcryba9hk.html"
+},
+    {
+    "id": "annabelle-2-la-creacion-2017",
+    "tipo": "movie",
+    "titulo": "Annabelle 2: La Creación",
+    "portada": "https://image.tmdb.org/t/p/w500/dpdPo1kPE5y1pBopxKnchlSX8i8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+    "trailer": "https://www.youtube.com/watch?v=R-StM2rHAc8",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "Varios años después de la trágica muerte de su niña, un muñequero y su esposa reciben a una monja ya varias niñas de un orfanato cerrado en su casa, convirtiéndose pronto en el blanco de la creación poseída por la muñeca, Annabelle.",
+    "año": "2017",
+    "calificacion": 6.6,
+    "video": "https://vimeos.net/embed-jy3ncwhie4eg.html"
 }
 ]

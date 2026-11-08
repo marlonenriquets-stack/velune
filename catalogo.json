@@ -812,5 +812,34 @@
     "calificacion": 6.8,
     "video": "https://rumble.com/hls-vod/78jzwm/playlist.m3u8"
 }
-   
+   {
+    "id": "la-morgue-2016",
+    "tipo": "movie",
+    "titulo": "La morgue",
+    "portada": "https://image.tmdb.org/t/p/w500/zziZJOyTpW1UOBulXufRrQPr1Xj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/2pOd80PQSJ9cUbli7PDeX59q3vQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ESKXArWZ0M",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte. Ambos intentarán desvelar los intrigantes motivos del fallecimiento de la joven.",
+    "año": "2016",
+    "calificacion": 6.9,
+    "video": "https://hugh.cdn.rumble.cloud/video/s8/2/n/t/H/y/ntHyq.aaa.mp4"
+},
+    {
+    "id": "annabelle-2014",
+    "tipo": "movie",
+    "titulo": "Annabelle",
+    "portada": "https://image.tmdb.org/t/p/w500/sFxgTJizaUUI3NByNT80oCVnkA2.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/pWZ0srAfPx4XyJMlFkKBlmYfx3C.jpg",
+    "trailer": "https://www.youtube.com/watch?v=VDE7DxXJ3bg",
+    "categorias": [
+        "Terror"
+    ],
+    "descripcion": "John Form encuentra el regalo perfecto para Mia, su mujer embarazada; una preciosa e inusual muñeca con vestido de novia blanco inmaculado. Sin embargo, la alegría de Mia al recibir a Annabelle no dura mucho...",
+    "año": "2014",
+    "calificacion": 5.8,
+    "video": "https://vimeos.net/embed-bxfgcryba9hk.html"
+}
 ]

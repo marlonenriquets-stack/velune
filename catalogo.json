@@ -745,5 +745,56 @@
     "calificacion": 7,
     "video": "https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/2/s/X/I/b/sXIbB.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=48481280-48498446"
 },
+    {
+    "id": "moon-knight-2022",
+    "tipo": "tv",
+    "titulo": "Moon Knight",
+    "portada": "https://image.tmdb.org/t/p/w500/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+    "trailer": "https://www.youtube.com/watch?v=4QIbLY2ZOAU",
+    "categorias": [
+        "Acción"
+    ],
+    "descripcion": "Steven Grant parecía llevar una vida sin sobresaltos hasta que la realidad empezó a desmoronarse a sus pies, rodeado de pesadillas de otra vida: la del mercenario Marc Spector. Además de múltiples personalidades, ahora tiene enemigos brutales que lo persiguen, y un misterio mortal que resolver con los dioses del antiguo Egipto.",
+    "año": "2022",
+    "calificacion": 7.6,
+    "temporadas": [
+        {
+            "nombre": "Temporada 1",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: El problema del pececito",
+                    "video": "https://1a-1791.com/video/fwe1/47/s8/2/l/Y/-/Y/lY-Yx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/h88DZpKIDo66Tvt556HCvq2BdR0.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: Invoca el traje",
+                    "video": "https://1a-1791.com/video/fwe2/02/s8/2/K/C/b/Z/KCbZx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/oLmV6R7PoEMLJJ62bE4idOoG9WX.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: Alguien amistoso",
+                    "video": "https://1a-1791.com/video/fwe1/d3/s8/2/X/r/c/Z/XrcZx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/xMiab3gxnz9XJpcadVZLkqdrkSu.jpg"
+                },
+                {
+                    "titulo": "Capítulo 4: La Tumba",
+                    "video": "https://1a-1791.com/video/fwe1/95/s8/2/-/G/e/Z/-GeZx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/ujPdwFsye9ojzFjPTcJ2yk227K7.jpg"
+                },
+                {
+                    "titulo": "Capítulo 5: El Sanatorio",
+                    "video": "https://1a-1791.com/video/fwe1/da/s8/2/W/f/g/Z/WfgZx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/3sFSWqyn3CM7sDJTaLizzrWEhVE.jpg"
+                },
+                {
+                    "titulo": "Capítulo 6: Dioses y monstruos",
+                    "video": "https://1a-1791.com/video/fwe1/e5/s8/2/d/d/o/Z/ddoZx.caa.mp4",
+                    "imagen": "https://image.tmdb.org/t/p/w500/p1ZZRvqhhdQeHowarTcDC4r2Moy.jpg"
+                }
+            ]
+        }
+    ]
+}
     
 ]

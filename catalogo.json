@@ -795,6 +795,22 @@
             ]
         }
     ]
+},
+    {
+    "id": "asi-en-la-tierra-como-en-el-infierno-2014",
+    "tipo": "movie",
+    "titulo": "Así en la Tierra como en el Infierno",
+    "portada": "https://image.tmdb.org/t/p/w500/t979TJIaqOdZBokMWqMHZrfJLzW.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1ESKXArWZ0M",
+    "categorias": [
+        "Terror",
+        "Suspenso"
+    ],
+    "descripcion": "A lo largo de los kilómetros y kilómetros de tortuosas catacumbas que hay bajo las calles de París, un grupo de exploradores se aventura entre los cientos de miles de huesos sin catalogar y acaba averiguando cuál era la verdadera función de esta ciudad de los muertos. El recorrido se convierte en un viaje al corazón del terror.",
+    "año": "2014",
+    "calificacion": 6.8,
+    "video": "https://rumble.com/hls-vod/78jzwm/playlist.m3u8"
 }
     
 ]

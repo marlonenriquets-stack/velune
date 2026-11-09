@@ -943,5 +943,20 @@
     "año": "2026",
     "calificacion": 7.5,
     "video": "https://playmogo.com/e/t2e0jbtwuq84"
+},
+    {
+    "id": "noche-fatidica-2026",
+    "tipo": "movie",
+    "titulo": "Noche fatídica",
+    "portada": "https://image.tmdb.org/t/p/w500/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=KUnKWjeQA9A",
+    "categorias": [
+        "Suspenso"
+    ],
+    "descripcion": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+    "año": "2026",
+    "calificacion": 5.7,
+    "video": "https://hglink.to/e/2tpk0m1zlccc"
 }
 ]

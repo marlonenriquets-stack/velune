@@ -871,5 +871,64 @@
     "año": "2019",
     "calificacion": 6.4,
     "video": "https://vimeos.net/embed-68qeh3r8p3ow.html"
+},
+    {
+    "id": "off-campus-2026",
+    "tipo": "tv",
+    "titulo": "Off Campus",
+    "portada": "https://image.tmdb.org/t/p/w500/pI4sEVVbswtyOL2uaFxZs2tPOnQ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eshJeoaDmtY",
+    "categorias": [],
+    "descripcion": "Hannah Wells acepta darle clases particulares a Garrett Graham, el capitán del equipo de hockey, para conquistar al chico que le gusta. Lo que empieza como un simple acuerdo se convierte en una conexión real mientras ambos enfrentan su pasado. Mientras tanto, sus amigos Logan, Dean, Tucker y Allie viven sus propias aventuras entre romances y la vida universitaria.",
+    "año": "2026",
+    "calificacion": 8.9,
+    "temporadas": [
+        {
+            "nombre": "Temporada 1",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: El trato",
+                    "video": "https://playmogo.com/e/pwr7n4oxxkbx",
+                    "imagen": "https://image.tmdb.org/t/p/w500/nMl7h2ZYE2nMfQWLgsh09Zaqarj.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: La práctica",
+                    "video": "https://playmogo.com/e/n1785mi4yqp6",
+                    "imagen": "https://image.tmdb.org/t/p/w500/hTmoVLFR3pLKra5JInxuTkKNrK0.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: El orgasmo",
+                    "video": "https://playmogo.com/e/xwj0x32baofe",
+                    "imagen": "https://image.tmdb.org/t/p/w500/murH4aXLzLGmHuuT5hX9IBP346a.jpg"
+                },
+                {
+                    "titulo": "Capítulo 4: La separación",
+                    "video": "https://playmogo.com/e/5zi1nqmbjoto",
+                    "imagen": "https://image.tmdb.org/t/p/w500/uYD4RykYKUwIY1BhPVX7ngwTTJ0.jpg"
+                },
+                {
+                    "titulo": "Capítulo 5: La abstinencia",
+                    "video": "https://playmogo.com/e/ngghkj8dkubv",
+                    "imagen": "https://image.tmdb.org/t/p/w500/7DWUFA2elC7vxD9MFfMcNu7Xdnc.jpg"
+                },
+                {
+                    "titulo": "Capítulo 6: Las vacaciones",
+                    "video": "https://playmogo.com/e/desmmc49ywy6",
+                    "imagen": "https://image.tmdb.org/t/p/w500/elpZhwSxgEYBxjKLedJAkUdrpN2.jpg"
+                },
+                {
+                    "titulo": "Capítulo 7: El enfrentamiento",
+                    "video": "https://playmogo.com/e/6lapnrsgplgj",
+                    "imagen": "https://image.tmdb.org/t/p/w500/xyZtFKXv1CrSTN1DHOibXUFizTj.jpg"
+                },
+                {
+                    "titulo": "Capítulo 8: Cambio de línea",
+                    "video": "https://playmogo.com/e/7uyt86ny4vxs",
+                    "imagen": "https://image.tmdb.org/t/p/w500/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg"
+                }
+            ]
+        }
+    ]
 }
 ]

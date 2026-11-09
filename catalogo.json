@@ -930,5 +930,18 @@
             ]
         }
     ]
+},
+    {
+    "id": "contra-el-huracan-2026",
+    "tipo": "movie",
+    "titulo": "Contra el huracán",
+    "portada": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=KUnKWjeQA9A",
+    "categorias": [],
+    "descripcion": "Dos hermanos distanciados luchan por sobrevivir al huracán Otis en Acapulco, donde su unión y valentía transforman la adversidad en esperanza. Inspirada en una historia real.",
+    "año": "2026",
+    "calificacion": 7.5,
+    "video": "https://playmogo.com/e/t2e0jbtwuq84"
 }
 ]

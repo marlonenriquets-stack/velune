@@ -974,5 +974,20 @@
     "año": "2026",
     "calificacion": 8.8,
     "video": "https://playmogo.com/e/2ch9cq4sipxj"
+},
+    {
+    "id": "la-odisea-2026",
+    "tipo": "movie",
+    "titulo": "La Odisea",
+    "portada": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Acción"
+    ],
+    "descripcion": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+    "año": "2026",
+    "calificacion": 8,
+    "video": "https://vibuxer.com/e/3mf7iy1207zu"
 }
 ]

@@ -989,5 +989,36 @@
     "año": "2026",
     "calificacion": 8,
     "video": "https://vibuxer.com/e/3mf7iy1207zu"
+},
+    {
+    "id": "heartland-2026",
+    "tipo": "movie",
+    "titulo": "Heartland",
+    "portada": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Suspenso"
+    ],
+    "descripcion": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+    "año": "2026",
+    "calificacion": 7.5,
+    "video": "https://hglink.to/e/w9r3ird3pjwt"
+},
+    {
+    "id": "snoopy-presenta-12-dias-de-snoopy-2026",
+    "tipo": "movie",
+    "titulo": "Snoopy presenta: 12 días de Snoopy",
+    "portada": "https://image.tmdb.org/t/p/w500/bC0Rb0Mls2b493O3ic2IypUFo57.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Familiares",
+        "Animación"
+    ],
+    "descripcion": "Ansioso por salir de la lista negra de Santa, Snoopy se esfuerza por ser el beagle más amable del pueblo.",
+    "año": "2026",
+    "calificacion": 7,
+    "video": "https://voe.sx/e/myrydautbekt"
 }
 ]

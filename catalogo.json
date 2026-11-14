@@ -1112,5 +1112,39 @@
     "año": "2008",
     "calificacion": 8.5,
     "video": "https://hglamioz.com/e/6dz22bl4exq4"
+},
+    {
+    "id": "valentin-la-muerte-del-gallo-de-oro-2026",
+    "tipo": "tv",
+    "titulo": "Valentín: La muerte del Gallo de Oro",
+    "portada": "https://image.tmdb.org/t/p/w500/3g4YJsWrUZ5tB3F3g99pcPHCCIX.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [],
+    "descripcion": "Serie documental que reconstruye las 72 horas alrededor de la muerte del ícono de la música regional mexicana Valentín Elizalde en 2006.",
+    "año": "2026",
+    "calificacion": 7,
+    "temporadas": [
+        {
+            "nombre": "Temporada 1",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: Episodio 1",
+                    "video": "https://vidara.to/e/HD0qbGlKMToi9",
+                    "imagen": "https://media.themoviedb.org/t/p/w533_and_h300_face/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg"
+                },
+                {
+                    "titulo": "Capítulo 2: Episodio 2",
+                    "video": "https://vidara.to/e/5q6qumllJcWKJ",
+                    "imagen": "https://media.themoviedb.org/t/p/w533_and_h300_face/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg"
+                },
+                {
+                    "titulo": "Capítulo 3: Episodio 3",
+                    "video": "https://vidara.to/e/A8JE0X0Ge0cR0",
+                    "imagen": "https://media.themoviedb.org/t/p/w533_and_h300_face/9bZk0CshPxaYufswVE21ZOpJ3g7.jpg"
+                }
+            ]
+        }
+    ]
 }
 ]

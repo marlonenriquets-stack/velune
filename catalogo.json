@@ -1020,5 +1020,94 @@
     "año": "2026",
     "calificacion": 7,
     "video": "https://vidara.to/e/FZiXPLNXG1lbo"
-}
+},
+    {
+    "id": "el-intercambio-navideno-2026",
+    "tipo": "movie",
+    "titulo": "El Intercambio Navideño",
+    "portada": "https://image.tmdb.org/t/p/w500/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Comedia"
+    ],
+    "descripcion": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
+    "año": "2026",
+    "calificacion": 7,
+    "video": "https://vidara.to/e/4WiT0bwJ4t2jj"
+},
+    {
+    "id": "no-nos-rendimos-2026",
+    "tipo": "movie",
+    "titulo": "No nos rendimos",
+    "portada": "https://image.tmdb.org/t/p/w500/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Acción",
+        "Suspenso"
+    ],
+    "descripcion": "Cuando una peligrosa banda asalta su remota casa, un veterano atormentado por la culpa debe unir fuerzas con sus nietos, a quienes apenas conoce, para poder sobrevivir.",
+    "año": "2026",
+    "calificacion": 7.6,
+    "video": "https://playmogo.com/e/ej968huh18nk"
+},
+    {
+    "id": "allen-2026",
+    "tipo": "movie",
+    "titulo": "Allen",
+    "portada": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Familiares",
+        "Comedia",
+        "Ciencia Ficción"
+    ],
+    "descripcion": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+    "año": "2026",
+    "calificacion": 7.2,
+    "video": "https://playmogo.com/e/bfpdegeurcem"
+},
+    {
+    "id": "the-gospel-of-christmas-2026",
+    "tipo": "movie",
+    "titulo": "The Gospel of Christmas",
+    "portada": "https://image.tmdb.org/t/p/w500/kzTJg0zhWJRDHJPYEpSqxkFigTv.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Familiares"
+    ],
+    "descripcion": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+    "año": "2026",
+    "calificacion": 6.9,
+    "video": "https://playmogo.com/e/9fniu0ccs4nb"
+},
+    {
+    "id": "avedon-2026",
+    "tipo": "movie",
+    "titulo": "Avedon",
+    "portada": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [],
+    "descripcion": "Desde líderes mundiales e iconos de la cultura popular hasta supermodelos internacionales, Richard Avedon ayudó a sentar las bases del mundo visual en el que vivimos. Sus imágenes no se limitaron a retratar una época: también le dieron forma. ‘Avedon' recorre la vida y el legado de un artista que se sirvió de la fotografía para reinventar cuanto lo rodeaba. Gracias a un acceso sin precedentes a su archivo personal (instantáneas nunca vistas, material íntimo entre bastidores y nuevas entrevistas con sus colaboradores más cercanos), el documental explora cómo su mirada inconfundible reflejó y transformó el lenguaje visual del siglo XX, y por qué hasta la imagen más emblemática esconde mucho más de lo que muestra.",
+    "año": "2026",
+    "calificacion": 6,
+    "video": "https://vibuxer.com/e/qsazju0poolb"
+},
+    {
+    "id": "desprotexida-el-crimen-de-pazos-2026",
+    "tipo": "movie",
+    "titulo": "Desprotexida: el crimen de Pazos",
+    "portada": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [],
+    "descripcion": "Documental que narra el caso de Isabel Fuentes. En abril de 2015, unos supuestos ladrones la dejaron al borde de la muerte en su propia casa, en la aldea de Pazos, en Verín. Desde el primer momento, el sargento de la Guardia Civil que llevó el caso sospechó que la versión de lo ocurrido no cuadraba e intentó proteger a Isabel de una nueva agresión.",
+    "año": "2026",
+    "calificacion": 6.3,
+    "video": "https://vsembed.su/embed/movie?imdb=tt48500521&ds_lang=es"
+},
 ]

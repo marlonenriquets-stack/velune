@@ -1110,4 +1110,20 @@
     "calificacion": 6.3,
     "video": "https://vsembed.su/embed/movie?imdb=tt48500521&ds_lang=es"
 },
+    {
+    "id": "batman-el-caballero-de-la-noche-2008",
+    "tipo": "movie",
+    "titulo": "Batman: El caballero de la noche",
+    "portada": "https://image.tmdb.org/t/p/w500/vLFCrzI3V4kbze877tP1H7TqppL.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8un_UztYsw0",
+    "categorias": [
+        "Acción",
+        "Suspenso"
+    ],
+    "descripcion": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Ciudad Gótica, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para luchar contra la injusticia.",
+    "año": "2008",
+    "calificacion": 8.5,
+    "video": "https://hglamioz.com/e/6dz22bl4exq4"
+}
 ]
